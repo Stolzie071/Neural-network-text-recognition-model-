@@ -8,18 +8,16 @@
 ![htr](./doc/htr.png)
 
 
-## Run demo
+## Запустите демо-версию
 
-* Download one of the pretrained models
-  * [Model trained on word images](https://github.com/Stolzie071/Neural-network-text-recognition-model-/tree/main/model): 
-    only handles single words per image, but gives better results on the IAM word dataset
-  * [Model trained on text line images](https://www.dropbox.com/s/7xwkcilho10rthn/line-model.zip?dl=1):
-    can handle multiple words in one image
-* Put the contents of the downloaded zip-file into the `model` directory of the repository  
-* Go to the `src` directory 
-* Run inference code:
-  * Execute `python main.py` to run the model on an image of a word
-  * Execute `python main.py --img_file ../data/line.png` to run the model on an image of a text line
+* Загрузите предварительно обученную модель
+  * [Модель, обученная на словесных изображениях](https://github.com/Stolzie071/Neural-network-text-recognition-model-/tree/main/model): 
+    обрабатывает только отдельные слова для каждого изображения, но дает лучшие результаты в наборе данных IAM word.
+
+* Поместите содержимое загруженного zip-файла в каталог `model` репозитория  
+* Перейдите в каталог `src` 
+* Запустите код вывода:
+  * Выполните `python main.py ` чтобы запустить модель
 
 The input images, and the expected outputs are shown below when the text line model is used.
 
