@@ -1,8 +1,4 @@
-# Handwritten Text Recognition with TensorFlow
-
-* **Update 2021/2: recognize text on line level (multiple words)**
-* **Update 2021/1: more robust model, faster dataloader, word beam search decoder also available for Windows**
-* **Update 2020: code is compatible with TF2**
+# Нейронная сеть распознавания рукописного текста с помощью TensorFlow
 
 
 Система распознавания рукописного текста (HTR), реализованная с помощью TensorFlow (TF) и обученная на базе автономного набора данных HTR I AM.
