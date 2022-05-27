@@ -5,9 +5,9 @@
 * **Update 2020: code is compatible with TF2**
 
 
-Handwritten Text Recognition (HTR) system implemented with TensorFlow (TF) and trained on the IAM off-line HTR dataset.
-The model takes **images of single words or text lines (multiple words) as input** and **outputs the recognized text**.
-3/4 of the words from the validation-set are correctly recognized, and the character error rate is around 10%.
+Система распознавания рукописного текста (HTR), реализованная с помощью TensorFlow (TF) и обученная на базе автономного набора данных HTR I AM.
+Модель принимает **изображения отдельных слов или строк текста (нескольких слов) в качестве входных данных** и **выводит распознанный текст**.
+3/4 слов из набора проверки распознаны правильно, а частота ошибок символов составляет около 10%.
 
 ![htr](./doc/htr.png)
 
