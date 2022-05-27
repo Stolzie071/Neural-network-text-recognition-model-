@@ -11,7 +11,7 @@
 ## Run demo
 
 * Download one of the pretrained models
-  * [Model trained on word images](https://www.dropbox.com/s/mya8hw6jyzqm0a3/word-model.zip?dl=1): 
+  * [Model trained on word images](https://github.com/Stolzie071/Neural-network-text-recognition-model-/tree/main/model): 
     only handles single words per image, but gives better results on the IAM word dataset
   * [Model trained on text line images](https://www.dropbox.com/s/7xwkcilho10rthn/line-model.zip?dl=1):
     can handle multiple words in one image
