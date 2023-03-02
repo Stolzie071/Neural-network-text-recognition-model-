@@ -79,3 +79,9 @@ python main.py --mode train --fast --data_dir path/to/iam  --batch_size 250 --ea
 * [Распознавание рукописного текста в исторических документах](https://repositum.tuwien.ac.at/obvutwhs/download/pdf/2874742)
 * [Поиск по Словесному Лучу: Коннекционистский темпоральный Алгоритм декодирования классификации](https://repositum.tuwien.ac.at/obvutwoa/download/pdf/2774578)
 
+
+# Практические работы Java 
+
+* [Практика 1]([/src/com/company/practice1](https://github.com/mikhailcrocodil/Lesson1))
+
+
