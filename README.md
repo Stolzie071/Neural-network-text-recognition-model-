@@ -80,8 +80,4 @@ python main.py --mode train --fast --data_dir path/to/iam  --batch_size 250 --ea
 * [Поиск по Словесному Лучу: Коннекционистский темпоральный Алгоритм декодирования классификации](https://repositum.tuwien.ac.at/obvutwoa/download/pdf/2774578)
 
 
-# Практические работы Java 
-
-* [Практика 1](https://github.com/mikhailcrocodil/Lesson1)
-
 
