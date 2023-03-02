@@ -82,6 +82,6 @@ python main.py --mode train --fast --data_dir path/to/iam  --batch_size 250 --ea
 
 # Практические работы Java 
 
-* [Практика 1]([/src/com/company/practice1](https://github.com/mikhailcrocodil/Lesson1))
+* [Практика 1](https://github.com/mikhailcrocodil/Lesson1)
 
 
